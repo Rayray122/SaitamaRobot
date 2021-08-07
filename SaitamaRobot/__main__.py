@@ -78,7 +78,7 @@ Built by weebs for weebs, I specialize in managing anime eccentric communities!
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Hero For Fun and help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
+I'm a Hero For Fun and help admins manage their groups with demon arts! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
